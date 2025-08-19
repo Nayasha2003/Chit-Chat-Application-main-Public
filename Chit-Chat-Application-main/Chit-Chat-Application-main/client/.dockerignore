@@ -1,0 +1,29 @@
+# Node modules (installed fresh inside Docker)
+node_modules
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Logs
+*.log
+
+# Env files (React uses these at build time, not runtime)
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Build output (we’ll rebuild inside Docker)
+build
+
+# OS / editor junk
+.DS_Store
+.vscode
+.idea
+*.swp
+*.swo
+
+# Docker files themselves
+Dockerfile
+.dockerignore
