@@ -12,9 +12,24 @@ Fully Dockerized 🐳 for efficient deployment and scalability 🚀, with a mode
 ## 🖼️ Screenshots  
 
 💬 **Login Page**  
-⚡ **Real-Time Messaging**  
+
+![Login Page](https://raw.githubusercontent.com/Nayasha2003/Chit-Chat-Application-main-Public/21f0063ae720333ec5d820ac5e725c4caa0ca210/Chit-Chat-Application-main/Chit-Chat-Application-main/client/src/assets/1.png)
+
+
+⚡ **Chat Dashboard**  
+
+![Logged In](https://raw.githubusercontent.com/Nayasha2003/Chit-Chat-Application-main-Public/21f0063ae720333ec5d820ac5e725c4caa0ca210/Chit-Chat-Application-main/Chit-Chat-Application-main/client/src/assets/2.png)
+
+
 👥 **Multiple Concurrent Users**  
-📱 **Responsive Chat UI**  
+
+![Messaging UI](https://raw.githubusercontent.com/Nayasha2003/Chit-Chat-Application-main-Public/21f0063ae720333ec5d820ac5e725c4caa0ca210/Chit-Chat-Application-main/Chit-Chat-Application-main/client/src/assets/3.png)
+
+
+📱 **Dockerized**  
+
+![Docker Desktop](https://raw.githubusercontent.com/Nayasha2003/Chit-Chat-Application-main-Public/21f0063ae720333ec5d820ac5e725c4caa0ca210/Chit-Chat-Application-main/Chit-Chat-Application-main/client/src/assets/4.jpg)
+
 
 ---
 
